@@ -4,6 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Scenes: []
   m_configObjects: {}
+=======
+  m_Scenes:
+  - enabled: 1
+<<<<<<< HEAD
+    path: Assets/MyDefence/Scenes/SampleScene.unity
+=======
+    path: Assets/Scenes/SampleScene.unity
+>>>>>>> 933d04d1b722067837a251d2390fdaf7d92292fe
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+>>>>>>> da6c30795b46ef23e64c6d146ed76d9bde04a310
   m_UseUCBPForAssetBundles: 0
